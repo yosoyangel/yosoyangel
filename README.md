@@ -33,6 +33,10 @@
 ![QA Engineering](https://github.com/yosoyangel/yosoyangel/blob/main/assets/qaeng.png)
 
 
-Follow me
+### Contact me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-ddf2f7?style=for-the-badge&logo=Telegram)](t.me/soyangel)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ddf2f7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/raisa-fedotieva/)
+
 
 
