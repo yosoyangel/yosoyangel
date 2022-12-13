@@ -23,7 +23,7 @@
 ![Regression Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/regression.png)
 ![Software Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/software%20testing.png)
 ![Api Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/apitesting.png)
-![Web Testing]
+![Web Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/webtesting.png)
 ![Test Case Design](https://github.com/yosoyangel/yosoyangel/blob/main/assets/testcase.png)
 ![Mobile App Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/mobile.png)
 ![Bug Tracking & Reports](https://github.com/yosoyangel/yosoyangel/blob/main/assets/bugtracking.png)
