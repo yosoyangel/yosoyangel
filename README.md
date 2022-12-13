@@ -19,19 +19,20 @@
 
 ### Skills:
 
-![Functional Testing]
-![Regression Testing]
-![Software Testing]
-![Api Testing]
+![Functional Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/functional.png)
+![Regression Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/regression.png)
+![Software Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/software%20testing.png)
+![Api Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/apitesting.png)
 ![Web Testing]
-![Test Case Design]
-![Mobile App Testing]
-![Bug Tracking & Reports]
-![Test Results & Analysis]
-![End-to-End Testing]
-![Usability Testing]
-![QA Engineering]
+![Test Case Design](https://github.com/yosoyangel/yosoyangel/blob/main/assets/testcase.png)
+![Mobile App Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/mobile.png)
+![Bug Tracking & Reports](https://github.com/yosoyangel/yosoyangel/blob/main/assets/bugtracking.png)
+![Test Results & Analysis](https://github.com/yosoyangel/yosoyangel/blob/main/assets/testresalt.png)
+![End-to-End Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/endtoend.png)
+![Usability Testing](https://github.com/yosoyangel/yosoyangel/blob/main/assets/usability.png)
+![QA Engineering](https://github.com/yosoyangel/yosoyangel/blob/main/assets/qaeng.png)
 
 
 Follow me
+
 
